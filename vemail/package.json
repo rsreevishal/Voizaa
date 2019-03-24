@@ -1,0 +1,18 @@
+{
+  "name": "vemail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "express": "^4.16.4",
+    "googleapis": "^27.0.0",
+    "sendgrid": "^5.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sree vishal",
+  "license": "ISC"
+}
